@@ -1,0 +1,18 @@
+
+中央卫视,#genre#
+
+CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-1 综合,https://edge1.laotv.la/live/CCTV1/sc-gaFECQ/v1_index.m3u8
+CCTV-1 综合,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
+CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV-5 体育,https://epg.pw/stream/1ffe16d61d03c294d0c96913c0e50a55ddd1d62dc7bf0875851dfcc54f19ff51.ctv
+CCTV-5 体育,https://epg.pw/stream/11db0a7833afd03b419868fa749679205d45856b5c86e04362bf8cd6752b93ee.m3u8
+CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-5+ 体育赛事,https://epg.pw/stream/4ac8702f7f5a5b0d972e76862b0bb9b1f43f695fe78adcafcc0f9ecab99e3589.ctv
+CCTV-5+ 体育赛事,https://epg.pw/stream/4a4bdd2cccd5fe8d0525b51af0465565e4df170f0a0994ca16dc006253c4c256.ct
+CCTV-6 电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV-8 电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV-9 纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV-9 纪录,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/7f5d6d3aa4-0-0-915e9d1a4eeac90ef4c55c686ff77b58/index.m3u8
+CCTV-13 新闻,https://0472.org/hls/cctv13.m3u8
