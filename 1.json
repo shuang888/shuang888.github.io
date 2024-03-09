@@ -3,6 +3,7 @@
 "lives":[{"name":"电视直播","type":0,"url":"./tvlive/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
+{"key":"drpy_js_996影视","name":"影视 | 996影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/996影视.js"},
 {"key":"drpy_js_大师兄影视","name":"起飞 | 大师兄影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大师兄影视.js"},
 {"key":"drpy_js_华乐影院","name":"起飞 | 华乐影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/华乐影院[飞].js"},
 {"key":"drpy_js_天天视频","name":"起飞 | 天天视频[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/天天视频[飞].js"},
