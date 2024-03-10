@@ -2,7 +2,6 @@
 央视,#genre#
 
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=78fb72478a1507d1d266eee6d380fe3e
 CCTV-1 综合,https://edge1.laotv.la/live/CCTV1/sc-gaFECQ/v1_index.m3u8
 CCTV-1 综合,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -19,10 +18,14 @@ CCTV-9 纪录,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bf
 CCTV-13 新闻,https://0472.org/hls/cctv13.m3u8
 
 卫视,#genre#
-
+浙江卫视,https://node1.olelive.com:6443/live/ZHEJIANGHD/hls.m3u8
 浙江卫视,https://node1.olelive.com:6443/live/ZHEJIANGHD.live.flv?token=66a9a191aea500e13d218490c0ec351c
+湖南卫视,https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
 湖南卫视,https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=c40186f4ea93a097226726e158133057
+东方卫视,https://node1.olelive.com:6443/live/DONGFANGHD/hls.m3u8
 东方卫视,https://node1.olelive.com:6443/live/DONGFANGHD.live.flv?token=d16ea4ef17352f6d9ab9e2454798b5b1
+广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8
+广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD.live.flv?token=ae63ef0e7c8d4455c18b1ce9323a24cd
 
 港澳台,#genre#
 
