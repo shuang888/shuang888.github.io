@@ -18,7 +18,10 @@ CCTV-9 纪录,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bf
 CCTV-13 新闻,https://0472.org/hls/cctv13.m3u8
 
 卫视,#genre#
+
 浙江卫视,https://node1.olelive.com:6443/live/ZHEJIANGHD.live.flv?token=66a9a191aea500e13d218490c0ec351c
+湖南卫视,https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=c40186f4ea93a097226726e158133057
+
 港澳台,#genre#
 
 香港-凤凰资讯,http://1.62.64.212/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
