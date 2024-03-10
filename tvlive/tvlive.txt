@@ -2,6 +2,7 @@
 央视,#genre#
 
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=78fb72478a1507d1d266eee6d380fe3e
 CCTV-1 综合,https://edge1.laotv.la/live/CCTV1/sc-gaFECQ/v1_index.m3u8
 CCTV-1 综合,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
