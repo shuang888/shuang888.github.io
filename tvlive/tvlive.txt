@@ -26,6 +26,8 @@ CCTV-13 新闻,https://0472.org/hls/cctv13.m3u8
 东方卫视,https://node1.olelive.com:6443/live/DONGFANGHD.live.flv?token=d16ea4ef17352f6d9ab9e2454798b5b1
 广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8
 广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD.live.flv?token=ae63ef0e7c8d4455c18b1ce9323a24cd
+辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
+辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD.live.flv?token=9a32d738025cdb8a8e8d8288694f69c7
 
 港澳台,#genre#
 
