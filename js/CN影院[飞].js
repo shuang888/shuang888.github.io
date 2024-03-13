@@ -24,7 +24,7 @@ var rule = {
         21:{cateId:'21'},
         52:{cateId:'52'}
     },
-    class_parse: 'ul.hl-smnav&&li;span&&Text;a&&href;/(\\d+).html',
+    class_parse: 'ul.swiper-wrapper&&li;span&&Text;a&&href;/(\\d+).html',
     pagecount:{"52":1},
     lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
