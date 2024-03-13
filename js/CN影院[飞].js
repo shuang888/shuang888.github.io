@@ -2,7 +2,7 @@ muban.海螺3.二级.title = 'h2&&Text;.hl-col-xs-12.hl-col-sm-4--em:eq(2)&&Text
 muban.海螺3.二级.desc = '.hl-col-xs-12:eq(2)&&Text;;;.hl-col-xs-12--em:eq(3)&&Text;.hl-col-xs-12--em:eq(4)&&Text';
 var rule = {
     title:'CN影院',
-    模板:'海螺3',
+    模板:'cnys',
     host:'https://cnys.tv',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyfilter.html',
