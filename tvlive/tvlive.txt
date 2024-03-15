@@ -149,4 +149,4 @@ CGTN阿拉伯语,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 港澳台,#genre#
 
 凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-香港中文,http://210.210.155.37/session/13da8052-e2ad-11ee-ad8a-af8db5459c73/uq2663/h/h157/S4/mnf.m3u8
+凤凰中文,http://210.210.155.37/session/13da8052-e2ad-11ee-ad8a-af8db5459c73/uq2663/h/h157/S4/mnf.m3u8
