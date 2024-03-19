@@ -9,10 +9,7 @@ CCTV-4 欧洲,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3
 CCTV-4 欧洲,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV-4 美洲,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
 CCTV-4 美洲,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
-CCTV-5 体育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
-CCTV-5 体育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
-CCTV-5 体育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls
-CCTV-5 体育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV-6 电影,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
 CCTV-6 电影,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226250/1/index.m3u8?fmt=ts2hls
