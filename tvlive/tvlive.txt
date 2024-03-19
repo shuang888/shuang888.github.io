@@ -1,7 +1,7 @@
 央视,#genre#
 
-CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD.live.flv
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD.live.flv
 CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-3 综艺,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/1.m3u8
 CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/1.m3u8
