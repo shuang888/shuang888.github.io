@@ -15,9 +15,7 @@ CCTV-6 电影,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3
 CCTV-6 电影,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226250/1/index.m3u8?fmt=ts2hls
 CCTV-6 电影,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
 CCTV-7 国防军事,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
-CCTV-8 电视剧,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226060/1/index.m3u8?fmt=ts2hls
-CCTV-8 电视剧,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226244/1/index.m3u8?fmt=ts2hls
-CCTV-8 电视剧,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+CCTV-8 电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV-9 纪录,https://node1.olelive.com:6443/live/CCTV9HD.live.flv
 CCTV-9 纪录,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
 CCTV-10 科教,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
