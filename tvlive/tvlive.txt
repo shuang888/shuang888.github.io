@@ -2,15 +2,56 @@
 
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1 综合,https://edge1.laotv.la/live/CCTV1/sc-gaFECQ/v1_index.m3u8
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/1.m3u8
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/1.m3u8
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/1.m3u8
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/1.m3u8
+
 CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/1.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/1.m3u8
+
 CCTV-3 综艺,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/1.m3u8
+
 CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/1.m3u8
+CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/1.m3u8
+
 CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/1.m3u8
+
 CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/1.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/1.m3u8
+
 CCTV-6 电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-CCTV-7 国防军事,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+CCTV-6 电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/1.m3u8
+CCTV-6 电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/1.m3u8
+
+CCTV-7 国防军事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/1.m3u8
+
 CCTV-8 电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/1.m3u8
+CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/1.m3u8
+
 CCTV-9 纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/1.m3u8
+
+CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/1.m3u8
+
+CCTV-11 戏曲,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/1.m3u8
+
+CCTV-12 社会与法,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/1.m3u8
+
+CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/1.m3u8
+
+CCTV-14 少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/1.m3u8
+
+CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/1.m3u8
+
+CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/1.m3u8
+
+CCTV-17 农业农村,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/1.m3u8
+
 
 港澳台,#genre#
 
