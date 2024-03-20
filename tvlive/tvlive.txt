@@ -50,6 +50,7 @@ CCTV-17 农业农村,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/8888889
 
 卫视,#genre#
 湖南卫视,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+江苏卫视,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
 
 港澳台,#genre#
 
