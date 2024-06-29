@@ -68,5 +68,5 @@ CCTV-17 农业农村,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/8888889
 港澳台,#genre#
 
 凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-凤凰卫视,http://210.210.155.37/session/13da8052-e2ad-11ee-ad8a-af8db5459c73/uq2663/h/h157/S4/mnf.m3u8
-凤凰卫视,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
