@@ -15,6 +15,7 @@ CCTV-13新闻,https://stream1.freetv.fun/3a63799dd08492a3543a3676a9029d110e51ad0
 江苏卫视,http://cdn.jdshipin.com:8880/ysp.php?id=jsws
 吉林卫视,https://stream1.freetv.fun/f845c6ed628a3f947bccdcffba4f8384f1d72236bebee05710123de7850c62b7.m3u8
 内蒙古卫视,https://stream1.freetv.fun/4e484b162cc6896b0a67aa5454845f69cc4d5e372412cd0aca2e6400af9dcd17.m3u8
+安徽卫视,https://stream1.freetv.fun/aca574a28420743e004a09d5a82338dee39ec445200d4e358f38d2c4ae7caf56.m3u8
 港澳台,#genre#
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
