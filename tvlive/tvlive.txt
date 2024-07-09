@@ -4,6 +4,7 @@ CCTV-1综合,https://event.pull.hebtv.com/jishi/cp3.m3u8
 CCTV-1综合,http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
 CCTV-6电影,https://stream1.freetv.fun/4ef9910f0b25f00e6dd8fee4dfa64e36044501c7fa50c1e7f94f4dcdf900d789.m3u8
 CCTV-8电视剧,https://stream1.freetv.fun/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8
+CCTV-11戏曲,https://stream1.freetv.fun/6123793b04047f9d1985cdab1ce37c47bee9c9b8668d8e453b5242a2bb62d3f3.m3u8
 CCTV-13新闻,https://event.pull.hebtv.com/jishi/cp4.m3u8
 CCTV-13新闻,https://stream1.freetv.fun/3a63799dd08492a3543a3676a9029d110e51ad0ce3573faeb844f5dcd6b24767.m3u8
 卫视,#genre#
