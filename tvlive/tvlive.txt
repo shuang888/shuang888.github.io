@@ -21,3 +21,7 @@ CCTV-13新闻,https://stream1.freetv.fun/3a63799dd08492a3543a3676a9029d110e51ad0
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
+新闻,#genre#
+
+台视新闻,https://stream1.freetv.fun/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
