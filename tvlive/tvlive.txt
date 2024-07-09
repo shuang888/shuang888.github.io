@@ -25,6 +25,7 @@ CCTV-13新闻,https://stream1.freetv.fun/3a63799dd08492a3543a3676a9029d110e51ad0
 新闻,#genre#
 
 江苏新闻,https://stream1.freetv.fun/acade8b0531153ac521c641aca04e5f68f67b1d740c41ab7543b4755fb21609f.ctv
+浙江新闻,https://stream1.freetv.fun/e5d695052a7933bcebadd46f6b7a5ac54458f494246b99846db0329b81e30fbd.m3u8
 台视新闻,https://stream1.freetv.fun/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8
 有线新闻台,https://stream1.freetv.fun/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8
 半岛电视台,https://stream1.freetv.fun/53038c1b820c78bd02d8b62c558c2940a15f421f8b9110a6fc8da1b271c19f95.m3u8
